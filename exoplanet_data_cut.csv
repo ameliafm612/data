@@ -1,4 +1,4 @@
-pl_name,default_flag,sy_snum,sy_pnum,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_masse,pl_massj,pl_massjlim,pl_dens,st_mass
+# pl_name,default_flag,sy_snum,sy_pnum,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_masse,pl_massj,pl_massjlim,pl_dens,st_mass
 xi Aql b,1,1,1,136.97,0.625,,,,,,,1.74
 ups Leo b,1,1,1,385.2,1.18,,,,,,,1.48
 ups And d,1,2,3,1276.46,2.51329,,,,,,,1.3
