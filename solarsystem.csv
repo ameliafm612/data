@@ -1,0 +1,9 @@
+# planet_name, period, mj
+Mercury, 88 ,0.000173910112
+Venus, 225, 0.002564
+Earth, 365.25, 0.00314558
+Mars, 687, 0.0003367
+Jupiter, 4,330.6, 1
+Saturn, 10,755.7, 0.299
+Uranus, 30,688.5, 0.0457
+Neptune, 60,190, 0.05395
